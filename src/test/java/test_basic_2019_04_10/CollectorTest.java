@@ -9,7 +9,7 @@ public class CollectorTest {
 	@Test
 	
 	public void listExample(){
-		
+		//Fehler noch beheben!
 		List<Rectangle> myList = new ArrayList<>();
 		myList.add(new Rectangle(10,20));
 		myList.add(new Rectangle(10,200));
