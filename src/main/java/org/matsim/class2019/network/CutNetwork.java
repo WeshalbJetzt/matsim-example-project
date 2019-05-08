@@ -14,7 +14,8 @@ import org.matsim.core.router.util.LeastCostPathCalculator.Path;
 public class CutNetwork {
 	public static void main(String[] args) {
 		
-
+// s
+		
 		Path inputNetwork= (Path) Paths.get("C:\\Users\\Friedemann\\Desktop\\MastSim Übung\\UE4\\erfurt-network.xml");
 		Path outputNetwork= (Path) Paths.get("C:\\Users\\Friedemann\\Desktop\\MastSim Übung\\UE4\\erfurt-network_angepasst.xml");
 		
